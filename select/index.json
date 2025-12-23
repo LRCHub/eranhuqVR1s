@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "夜間飛行",
+  "base_artist": "にしな",
+  "createdAt": "2025-12-23T11:37:30.137704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "Tentenko",
+      "has_synced": false,
+      "path": "select/01_夜間飛行_Tentenko.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "テンテンコ",
+      "has_synced": false,
+      "path": "select/02_夜間飛行_テンテンコ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "Wasureranneyo",
+      "has_synced": false,
+      "path": "select/03_夜間飛行_Wasureranneyo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "Junko Yagami",
+      "has_synced": true,
+      "path": "select/04_夜間飛行_Junko_Yagami.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/05_夜間飛行_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/06_夜間飛行_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/07_夜間飛行_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "KAMI WA SAIKORO WO FURANAI",
+      "has_synced": true,
+      "path": "select/08_夜間飛行_KAMI_WA_SAIKORO_WO_FURANAI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "八神純子",
+      "has_synced": true,
+      "path": "select/09_夜間飛行_八神純子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "Yagami, Junko",
+      "has_synced": true,
+      "path": "select/10_夜間飛行_Yagami,_Junko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "忘れらんねえよ",
+      "has_synced": true,
+      "path": "select/11_夜間飛行_忘れらんねえよ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "Junko Yagami",
+      "has_synced": true,
+      "path": "select/12_夜間飛行_Junko_Yagami.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "夜間飛行 - Night flight",
+      "artist": "sora tob sakana",
+      "has_synced": false,
+      "path": "select/13_夜間飛行_-_Night_flight_sora_tob_sakana.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "sora tob sakana",
+      "has_synced": true,
+      "path": "select/14_夜間飛行_sora_tob_sakana.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "sora tob sakana",
+      "has_synced": false,
+      "path": "select/15_夜間飛行_sora_tob_sakana.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "夜間飛行",
+      "artist": "Junko Yagami (八神純子)",
+      "has_synced": true,
+      "path": "select/16_夜間飛行_Junko_Yagami_(八神純子).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜間飛行",
+      "artist": "にしな",
+      "has_synced": false,
+      "path": "select/pl_01_夜間飛行_にしな.txt"
+    }
+  ]
+}
